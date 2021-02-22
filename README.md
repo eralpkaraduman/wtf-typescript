@@ -1,4 +1,4 @@
 # wtf-typescript
 
 Created with CodeSandbox, It's here;
-https://codesandbox.io/s/magical-morning-kwn88
+https://codesandbox.io/s/wtf-typescript-kwn88
